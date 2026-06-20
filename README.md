@@ -1,6 +1,6 @@
 # Text-Based Fishing Simulator
 
-A feature-rich console game written in Python core during my 80th day of programming. **Fun fact: the entire logic of 241 lines was built in just one late night and 2 hours the next day.**
+A feature-rich console game written in Python core during my 80th day of programming.
 
 ## Features
 - **Object-Oriented Programming (OOP):** Separate classes for spinning and float fishing with real-time fish generation.
